@@ -53,8 +53,8 @@ public class Main {
     //Для сравнения двух слов посимвольно, можно пользоваться:
     //String str = "apple";
     //str.charAt(0); - метод, вернет char, который стоит в слове str на первой позиции
-    //Играем до тех пор, пока игрок не отгадает слово
-    //Используем только маленькие буквы
+    //Играем до тех пор, пока игрок не отгадает слово.
+    //Используем только маленькие буквы.
 
     public static void guessWord() {
         String[] words = {"apple", "orange", "lemon", "banana", "apricot", "avocado", "broccoli", "carrot", "cherry", "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom", "nut", "olive", "pea", "peanut", "pear", "pepper", "pineapple", "pumpkin", "potato"};
